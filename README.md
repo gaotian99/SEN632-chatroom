@@ -1,4 +1,7 @@
-# Java Chatroom Example
+# C/S Chatroom
+## for SEN632 project by DD JF TG
+
+## 1. Test with JDK 8 
 
 Simple implementation of a threaded server that can handle multiple clients.
 
